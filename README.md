@@ -13,11 +13,11 @@ Welcome to the SkyMatch, a simple and intuitive weather application developed us
   Temperature, conditions, and location visualization
 - ** Smart Suggestions**  
   Context-aware activity recommendations
-- ** Add weather icons or animations **
-- ** Include a 5-day forecast with activity suggestions for each day
-  Enable geolocation to auto-detect the user’s location (with permission) **
+- ** Added weather icons or animations **
+- ** It include a 5-day forecast with activity suggestions for each day
+  Enabled geolocation to auto-detect the user’s location (with permission) **
 - ** Allow users to save favorite locations using localStorage **
-- ** Add a "Share" button to post weather and activity ideas on social media **
+- ** Added a "Share" button to post weather and activity ideas on social media **
 - ** Mobile-First Design **  
   Fully responsive across devices
 - ** Error Handling**  
